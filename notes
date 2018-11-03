@@ -10,14 +10,3 @@ $ python -m SimpleHTTPServer
 
 Python3 server:
 $ python -m http.server
-
-
-
-
-
-TO-DO List
-- Skybox
-- Earth
-- Sun
-- Lighting
-- Orbits/Rotation
