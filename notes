@@ -1,3 +1,6 @@
+portable python on windows:
+https://winpython.github.io/
+
 Check python version
 $ python -V
 (note that is a capital "V")
@@ -8,3 +11,13 @@ $ python -m SimpleHTTPServer
 Python3 server:
 $ python -m http.server
 
+
+
+
+
+TO-DO List
+- Skybox
+- Earth
+- Sun
+- Lighting
+- Orbits/Rotation
