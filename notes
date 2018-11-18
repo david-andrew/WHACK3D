@@ -1,5 +1,19 @@
-portable python on windows:
-https://winpython.github.io/
+Items:
+- Show off the final version
+- Everyone have python?
+- go to https://github.com/david-andrew/WHACK3D and download the project
+- terminal to location of project
+- check python version
+- run python http server
+- basic overview of project structure
+- display a single sphere
+- display textures
+- add lighting
+- orbits/movement
+- controls
+- anything else?
+
+
 
 Check python version
 $ python -V
